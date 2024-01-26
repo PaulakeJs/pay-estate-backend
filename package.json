@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build":"npm install && npm start",
-    "start": "node apis/server.js"
+    "build":"npm install",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
